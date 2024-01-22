@@ -1,1 +1,2 @@
-
+## Reflection
+This industrial talk with I-Farm  broadened my understanding of technologies in agriculture. They do a combination of technologies in agricilture which are vertical farming and hydrophinics farming with Iot applications, machine learning and cloud computing. I realized that technology did help to improve living quality of human. It also inspired me to explore technology out of school
